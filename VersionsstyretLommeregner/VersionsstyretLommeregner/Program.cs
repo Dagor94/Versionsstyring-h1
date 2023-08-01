@@ -72,8 +72,6 @@ namespace VersionsstyretLommeregner
             }
             Console.WriteLine(res);
             Console.ReadKey();
-            Console.WriteLine(420 % 69);
-            Console.ReadKey();
 
         }
     }
