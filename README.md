@@ -31,7 +31,7 @@ Hvad skal der beskrives i commit beskeder?
 - Der skal beskrives den overordnede ændring, altså hvad er blevet fjernet eller tilføjet. Hvis man har fjernet noget, så vil en begrundelse være krævet. Hvis man har tilføjet en funktion eller ligne så beskrives det hvad funktionen gør og generel info om den.
 
 Hvad er grunden til at i vil branche?
-- Det er en god ide *thumbs up*
+- For at undgår for mange konflikter og at skulle pull hver dag og lave eventuel konfilkthåndtering hver dag.
 
 Hvordan vil i lave code review?
 - Når der skal merges eller tilføjes større stykekr kode skal det kigges igennem af flere personer i gruppen for at sikre at alle forstår det samt at det bliver sat ind korrekt i det større billede.
