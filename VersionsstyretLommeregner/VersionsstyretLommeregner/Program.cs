@@ -94,11 +94,11 @@ namespace VersionsstyretLommeregner
             int guess = Convert.ToInt32(Console.ReadLine());
             if (guess == res)
             {
-                Console.Write("Rigtigt!");
+                Console.WriteLine("Rigtigt!");
             }
             else
             {
-                Console.Write("Forkert!");
+                Console.WriteLine("Forkert!");
             }
         }
     }
