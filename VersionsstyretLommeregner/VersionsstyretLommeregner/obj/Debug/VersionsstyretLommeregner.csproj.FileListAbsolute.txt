@@ -1,0 +1,8 @@
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\bin\Debug\VersionsstyretLommeregner.exe.config
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\bin\Debug\VersionsstyretLommeregner.exe
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\bin\Debug\VersionsstyretLommeregner.pdb
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\obj\Debug\VersionsstyretLommeregner.csproj.AssemblyReference.cache
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\obj\Debug\VersionsstyretLommeregner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\obj\Debug\VersionsstyretLommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\obj\Debug\VersionsstyretLommeregner.exe
+C:\Users\Johannes\Source\Repos\Versionsstyring-h1\VersionsstyretLommeregner\VersionsstyretLommeregner\obj\Debug\VersionsstyretLommeregner.pdb
