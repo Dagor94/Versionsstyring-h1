@@ -69,6 +69,11 @@ namespace VersionsstyretLommeregner
                         res = Math.Pow(tal1, tal2);
                         break;
                     }
+                case "Root":
+                    {
+                        res = Math.Sqrt(tal1 / tal2);
+                        break;
+                    }
             }
             Console.WriteLine(res);
             Console.ReadKey();
