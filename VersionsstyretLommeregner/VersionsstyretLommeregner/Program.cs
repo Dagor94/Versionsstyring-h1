@@ -69,10 +69,32 @@ namespace VersionsstyretLommeregner
                         res = Math.Pow(tal1, tal2);
                         break;
                     }
+                case "spil":
+                    {
+                        MathGame();
+                        break;
+                    }
             }
             Console.WriteLine(res);
             Console.ReadKey();
 
+        }
+        static void MathGame()
+        {
+            Random random = new Random();
+            int num1 = random.Next(1, 11);
+            int num2 = random.Next(1, 11);
+            int res = num1 + num2;
+            Console.Write($"{num1} + {num2} = ");
+            int guess = Convert.ToInt32(Console.ReadLine());
+            if (guess == res)
+            {
+                Console.Write("Rigtigt!");
+            }
+            else
+            {
+                Console.Write("Forkert!");
+            }
         }
     }
 }
