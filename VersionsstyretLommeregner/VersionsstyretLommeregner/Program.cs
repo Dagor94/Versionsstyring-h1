@@ -14,6 +14,7 @@ namespace VersionsstyretLommeregner
             double tal2 = 0;
             double res = 0;
             string funktion = "";
+
             Console.Write("Indtast tal: ");
             string check1 = Console.ReadLine();
             while (double.TryParse(check1, out double n) == false)
@@ -30,8 +31,14 @@ namespace VersionsstyretLommeregner
                 check2 = Console.ReadLine();
             }
             tal2 = Convert.ToDouble(check2);
+            tal1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Indtast tal: ");
+            tal2 = Convert.ToDouble(Console.ReadLine());
+
             Console.Write("Vælg funktion: ");
             funktion = Console.ReadLine();
+
             switch (funktion)
             {
                 case "+":
@@ -52,6 +59,16 @@ namespace VersionsstyretLommeregner
                 case "/":
                     {
                         res = tal1 / tal2;
+                        break;
+                    }
+                case "%":
+                    {
+                        res = tal1 % tal2;
+                        break;
+                    }
+                case "^":
+                    {
+                        res = Math.Pow(tal1, tal2);
                         break;
                     }
             }
