@@ -74,6 +74,7 @@ namespace VersionsstyretLommeregner
                         res = Math.Sqrt(tal1 / tal2);
                         break;
                     }
+            }
                 case "spil":
                     {
                         MathGame();
