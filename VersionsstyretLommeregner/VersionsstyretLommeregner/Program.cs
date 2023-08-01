@@ -23,8 +23,10 @@ namespace VersionsstyretLommeregner
                 check1 = Console.ReadLine();
             }
             tal1 = Convert.ToDouble(check1);
+
             Console.Write("Indtast tal: ");
             string check2 = Console.ReadLine();
+
             while (double.TryParse(check2, out double n) == false)
             {
                 Console.Write("Indtast tal: ");
@@ -68,8 +70,11 @@ namespace VersionsstyretLommeregner
                         break;
                     }
             }
-            Console.Write(res);
+            Console.WriteLine(res);
             Console.ReadKey();
+            Console.WriteLine(420 % 69);
+            Console.ReadKey();
+
         }
     }
 }
