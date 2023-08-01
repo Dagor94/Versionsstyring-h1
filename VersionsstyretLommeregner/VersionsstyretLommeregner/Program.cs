@@ -31,10 +31,6 @@ namespace VersionsstyretLommeregner
                 check2 = Console.ReadLine();
             }
             tal2 = Convert.ToDouble(check2);
-            tal1 = Convert.ToDouble(Console.ReadLine());
-
-            Console.Write("Indtast tal: ");
-            tal2 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Vælg funktion: ");
             funktion = Console.ReadLine();
