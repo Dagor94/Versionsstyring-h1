@@ -1,4 +1,4 @@
-# Hvad betyder det at dokumentere? Ud fra jeres intuition beskriv:
+# Dokumentationsøvelse 1 - Hvad betyder det at dokumentere?
 
 ###### af Philip Kjær
 ------
