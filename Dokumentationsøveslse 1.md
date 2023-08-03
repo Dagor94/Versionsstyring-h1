@@ -1,6 +1,7 @@
 # Hvad betyder det at dokumentere? Ud fra jeres intuition beskriv:
-*af Philip*
-======
+
+###### af Philip Kjær
+------
 ## Hvad er formålet med dokumentation?
 
 -	**Forståelse** – give en dybdegående forståelse af, hvordan programmet virker og dets formål. Samt dets komponenter og hvordan de interagerer.
